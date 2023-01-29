@@ -7,6 +7,7 @@ but yeah have fun using it
            (ABOUT SCP SITE RP)
 
 {+} Reminder : Play as legit using a scripts SCP:Site Roleplay
+                                                                               
 {-} Otherwise you get by a player reporting you or a mod caught you using scripts
 -----------------------------------------------
 SHUTDOWN : Not Working anymore
