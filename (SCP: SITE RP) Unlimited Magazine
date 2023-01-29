@@ -1,0 +1,5 @@
+for _,s in pairs(getgc(true)) do
+   if type(s) == "table" and rawget(s, "ammo") then
+       rawset(s, "ammo", math.huge)
+   end
+end
